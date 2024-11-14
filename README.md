@@ -8,4 +8,4 @@ Preprocessed and trained cancer data to predict whether tumor diagnosis is malig
 5. Gaussian Naive Bayes
 6. Artificial neural networks
 7. Recurrent neural networks (LSTM and GRU)
-8. Convolutional neural network
+8. Convolutional neural networks
